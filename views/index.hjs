@@ -5,6 +5,7 @@
   </head>
   <body style="background-color: {{ background }}">
     <h1>Hello world!</h1>
+    <h1>Azure!!!</h1>
     <p>App version: {{ version }}.</p>
   </body>
 </html>
